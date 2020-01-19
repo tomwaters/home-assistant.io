@@ -173,7 +173,7 @@ The hub does not have to be in the same subnet as your Home Assistant server.
 
 ### Option 2: hub token only
 
-This option is recommended only if Ootion 1 does not work. The MAC address should match that written on the back of the Hub.
+This option is recommended only if Option 1 does not work. The MAC address should match that written on the back of the Hub.
 
 - Requires a **hub token** obtained from [my.geniushub.co.uk/tokens](https://my.geniushub.co.uk/tokens).
 - Uses the v1 API - which is well-documented.
